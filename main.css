@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    padding-left: 75px;
+}
+
+h4  {
+    text-decoration-line: underline;
+}
+
+h5{
+    font-weight: bolder;
+    border-bottom: 10px solid ;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-style: groove;
+    border-bottom-color: gainsboro;
+}
+
+img{
+    float: left;
+    padding-left: 10px;
+    padding-right: 50px;
+
+}
+
+div{
+    padding: 50px;
+}
+
+td{
+    color: aliceblue;
+    font-size: 125%;
+    padding: 10px;
+    border: 2px solid navy;
+    border-radius: 5px;
+    background-color: rgba(17, 25, 131, 0.836);
+}
+
+body{
+    background-color: goldenrod
+}
+
